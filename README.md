@@ -20,4 +20,6 @@ Your app will take in a string from a user through a form, convert it to pig lat
 
 <a href='https://en.wikipedia.org/wiki/Pig_Latin'>Pig Latin on wikipedia</a>
 
+<a href='https://medium.com/@c.emily.collins/translating-to-pig-latin-with-ruby-f4e8e91d927e'>Great Blog About This Lab</a>
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-mvc-lab'>Sinatra MVC Lab</a> on Learn.co and start learning to code for free.</p>
